@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_news"
+        android:icon="@drawable/ic_public_black_24dp"
+        android:title="News" />
+
+    <item
+        android:id="@+id/action_business"
+        android:icon="@drawable/ic_poll_black_24dp"
+        android:title="Business" />
+
+    <item
+        android:id="@+id/action_sport"
+        android:icon="@drawable/ic_pool_black_24dp"
+        android:title="Sport" />
+
+    <item
+        android:id="@+id/action_entertainment"
+        android:icon="@drawable/ic_play_arrow_black_24dp"
+        android:title="Entertainment" />
+
+    <item
+        android:id="@+id/action_bookmark"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Bookmark" />
+
+
+</menu>

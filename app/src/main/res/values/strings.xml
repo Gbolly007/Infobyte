@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="admob_app_id">ca-app-pub-8597788800943592~4883065015</string>
+    <string name="banner_home_footer">ca-app-pub-8597788800943592/5645482343</string>
+</resources>
